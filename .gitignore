@@ -1,0 +1,40 @@
+.DS_Store
+node_modules
+/dist
+
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+public/css/styles.css
+# Include your project-specific ignores in this file
+# Read about how to use .gitignore: https://help.github.com/articles/ignoring-files
+# Useful .gitignore templates: https://github.com/github/gitignore
+node_modules
+dist
+.cache
+.project
+.pj
+design/*
+.env
+.cache
+.code-session.vim
+*.log
+.session.vim
+
+# yarn cache
