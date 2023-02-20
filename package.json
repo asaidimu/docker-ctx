@@ -12,7 +12,7 @@
     "build:dist": "./bin/dist.sh",
     "build:next": "./bin/next.sh",
     "build:types": "./bin/types.sh",
-    "ci": "yarn install --immutable",
+    "ci": "yarn install",
     "clean": "rm -rf dist"
   },
   "dependencies": {
