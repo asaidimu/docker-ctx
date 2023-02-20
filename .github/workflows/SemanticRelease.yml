@@ -23,7 +23,7 @@ jobs:
       - name: install dependencies
         run: |
           yarn set version stable
-          yarn ci
+          yarn install
 
       - name: Release
         uses: cycjimmy/semantic-release-action@v3
