@@ -1,7 +1,6 @@
 {
   "type": "module",
   "packageManager": "yarn@3.4.1",
-  "repository": "git@github.com:asaidimu/docker-ctx.git",
   "main": "index.js",
   "license": "MIT",
   "private": true,
