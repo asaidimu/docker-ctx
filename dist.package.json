@@ -1,5 +1,5 @@
 {
-    "name": "alcides",
+    "name": "docker-ctx",
     "version": "1.0.0",
     "description": "Creates a lean docker context for yarn monorepos.",
     "repository": "git@github.com:asaidimu/docker-ctx.git",
